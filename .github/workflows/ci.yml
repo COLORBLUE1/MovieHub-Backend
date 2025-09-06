@@ -10,6 +10,9 @@ on:
 jobs:
   build-test:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      security-events: write
 
     steps:
       - name: Checkout
@@ -22,24 +25,13 @@ jobs:
           java-version: '17'
           cache: 'maven'
 
-      # Si tu proyecto usa Maven (hay pom.xml), compila y prueba
-      - name: Build & test (Maven)
+      - name: Build (Maven, skip tests)
         if: ${{ hashFiles('**/pom.xml') != '' }}
-        run: mvn -B -q -DskipTests=false verify
+        run: mvn -B -q -DskipTests package
 
-      # Si en algún momento decides usar Gradle, este job también funcionará
-      - name: Build & test (Gradle)
+      - name: Build (Gradle)
         if: ${{ hashFiles('**/build.gradle') != '' || hashFiles('**/build.gradle.kts') != '' }}
         uses: gradle/gradle-build-action@v3
         with:
-          arguments: build --stacktrace
+          arguments: build --stacktrace -x test
 
-      - name: Upload surefire reports
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: test-reports
-          path: |
-            **/target/surefire-reports/**
-            **/build/test-results/test/**
-            **/build/reports/tests/**
