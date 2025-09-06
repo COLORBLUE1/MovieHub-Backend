@@ -11,4 +11,8 @@ public class MoviehubApplication {
 		SpringApplication.run(MoviehubApplication.class, args);
 	}
 
+	@Test
+    void contextLoads() {
+    }
+
 }
