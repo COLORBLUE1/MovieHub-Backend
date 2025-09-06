@@ -84,6 +84,13 @@
         </dependency>
     </dependencies>
 
+    <dependency>
+        <groupId>com.h2database</groupId>
+        <artifactId>h2</artifactId>
+        <scope>test</scope>
+    </dependency>
+
+
     <build>
         <plugins>
             <!-- Spring Boot Plugin -->
