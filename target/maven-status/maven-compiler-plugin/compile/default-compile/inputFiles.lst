@@ -1,22 +1,22 @@
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\MoviehubApplication.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\ClienteRepository.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\SalaRepository.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\ReservaController.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\HorarioRepository.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\PeliculaController.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\HorarioController.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Sala.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\SalaController.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Horario.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Pelicula.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\config\SwaggerConfig.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Cliente.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\PeliculaRepository.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Reserva.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\ClienteController.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\HorarioService.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\SalaService.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\PeliculaService.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\ReservaRepository.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\ClienteService.java
-D:\Desarrollo\Seminario\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\ReservaService.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Sala.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\ClienteService.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\ReservaService.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Cliente.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Pelicula.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\ReservaController.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Horario.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\ClienteRepository.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\SalaService.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\PeliculaService.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\PeliculaController.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\HorarioRepository.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\HorarioController.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\PeliculaRepository.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\config\SwaggerConfig.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\SalaRepository.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\ClienteController.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\MoviehubApplication.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\controller\SalaController.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\model\Reserva.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\service\HorarioService.java
+C:\Users\JUAN PABLO\Desktop\MovieHub-Backend\src\main\java\com\error404squad\MOVIEHUB\respository\ReservaRepository.java
